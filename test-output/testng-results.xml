@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77803" started-at="2017-07-22T08:57:03Z" finished-at="2017-07-22T08:58:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77803" started-at="2017-07-22T08:57:03Z" finished-at="2017-07-22T08:58:21Z">
+      <class name="scripts.Scenario_Cart">
+        <test-method status="PASS" signature="prerequisite()[pri:0, instance:scripts.Scenario_Cart@3bfdc050]" name="prerequisite" is-config="true" duration-ms="639" started-at="2017-07-22T14:27:03Z" finished-at="2017-07-22T14:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:scripts.Scenario_Cart@3bfdc050]" name="launchApp" is-config="true" duration-ms="41819" started-at="2017-07-22T14:27:03Z" finished-at="2017-07-22T14:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="addbook(java.util.Map)[pri:0, instance:scripts.Scenario_Cart@3bfdc050]" name="addbook" duration-ms="31757" started-at="2017-07-22T14:27:49Z" data-provider="Dpglobal" finished-at="2017-07-22T14:28:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=addbook, TC_ID=GB_12, Execute=Y, Username=qtpworld2008@gmail.com, Qty=, searchbook=flood and fire, Password=learn123}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="deletebook(java.util.Map)[pri:0, instance:scripts.Scenario_Cart@3bfdc050]" name="deletebook" duration-ms="428" started-at="2017-07-22T14:28:21Z" data-provider="Dpglobal" finished-at="2017-07-22T14:28:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=3.0, Script=deletebook, TC_ID=GB_14, Execute=Y, Username=, Qty=, searchbook=, Password=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebook -->
+      </class> <!-- scripts.Scenario_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

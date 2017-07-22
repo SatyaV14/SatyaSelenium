@@ -1,0 +1,5 @@
+[INFO] 2017-06-25 00:18:01,779 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-25 00:18:06,928 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-25 00:18:11,091 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-25 00:18:11,166 scripts.Scenario_Cart cvContains - Passed the StepAdd book to cart validation
+[INFO] 2017-06-25 00:18:12,016 scripts.Scenario_Cart cvEquals - Passed the StepValidating Net Amount 

@@ -1,0 +1,3 @@
+[INFO] 2017-06-10 02:12:26,548 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-10 02:12:26,617 scripts.Scenario_Cart cvContains - Passed the StepAdd book to cart validation
+[ERROR] 2017-06-10 02:12:27,744 scripts.Scenario_Cart cvEquals - Failed the Step Validating Net Amount  as Actual is 3715 and expected was 2229.0

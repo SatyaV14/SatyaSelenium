@@ -1,0 +1,3 @@
+[INFO] 2017-06-09 00:53:00,689 scripts.Scenario_Search cvEquals - Passed the StepInvalid Search  validation
+[ERROR] 2017-06-09 00:53:26,610 scripts.Scenario_Search cvContains - Failed the Step Home page Title as Actual is buy books online | online bookstore india | online book shopping | free shipping across india and expected was online store
+[ERROR] 2017-06-09 00:53:31,685 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 497 and expected was 234.0

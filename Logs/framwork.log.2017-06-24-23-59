@@ -1,0 +1,5 @@
+[INFO] 2017-06-24 23:59:17,248 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-24 23:59:20,342 scripts.Scenario_Cart cvContains - Passed the StepLogin page title Validation
+[INFO] 2017-06-24 23:59:22,432 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-24 23:59:27,580 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[ERROR] 2017-06-24 23:59:41,975 scripts.Scenario_Cart cvContains - Failed the Step Product details page title Validation as Actual is problem loading page and expected was shopping
